@@ -1,11 +1,11 @@
 # CodePath-iOS-Pre-Work
-# Prework - *Name of App Here*
+# Prework - *TBD*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ifunanya Okafor**
 
-**Name of your app** is an app that... [TODO] 
+**TBD** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **0.22** hours spent in total
 
 ## Required Features
 
