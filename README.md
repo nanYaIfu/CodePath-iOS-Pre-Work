@@ -24,7 +24,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 1. Youtube
    - Liking other people's videos
    - Hovering over a video can partially play some of it, like a preview/sneak peek
-     Con:
+    -  Con:
         - Not being able to disable YouTube Shorts/posts (Ex: Toggle button in settings that can fully disable shorts/posts from your Youtube)
 3. Notes (Apple)
    - Easy collaboration with other Apple users
