@@ -21,6 +21,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Youtube
+   - Liking other people's videos
+   - Hovering over a video can partially play some of it, like a preview/sneak peek
+     Con:
+        - Not being able to disable YouTube Shorts/posts (Ex: Toggle button in settings that can fully disable shorts/posts from your Youtube)
+3. Notes (Apple)
+   - Easy collaboration with other Apple users
+   - Pinning your favorite note
+4. Netflix
+   - Opening Intro (The da dung sound effect before you enter the app)
+   - Carousal Scroll of Trending Shows/Movies at the top
 
 ## Notes
 
